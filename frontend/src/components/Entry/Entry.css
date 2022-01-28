@@ -1,0 +1,15 @@
+.entry-wrapper {
+  height: 20%;
+  width: 95%;
+  background-color: gainsboro;
+  margin: 1em auto;
+  border-radius: 15px;
+}
+
+.entry-date {
+  margin: auto; 
+}
+
+.entry-value {
+  margin: auto;
+}
